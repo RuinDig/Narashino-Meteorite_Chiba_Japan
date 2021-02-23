@@ -1,5 +1,5 @@
 # Narashino-Meteorite_Chiba_Japan
-千葉県立中央博物館で展示されていた習志野隕石。
+千葉県立中央博物館で展示されていた習志野隕石。撮影日：2020年11月22日
 
 ![習志野隕石の展示_01](https://user-images.githubusercontent.com/20723919/108814742-b3919800-75f6-11eb-8842-8aac4d513e29.jpg)
 
