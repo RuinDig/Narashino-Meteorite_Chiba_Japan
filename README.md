@@ -1,4 +1,7 @@
 # Narashino-Meteorite_Chiba_Japan
+CC-BY-4.0 - RuinDig
+<div style="text-align: center;"><a href="https://creativecommons.org/licenses/by/4.0/deed.ja"><img src="https://user-images.githubusercontent.com/20723919/145936543-577c7705-90e2-4d56-ad5d-26b0fbcea02d.png" /></a></div>
+
 千葉県立中央博物館で展示されていた習志野隕石。撮影日：2020年11月22日
 
 ![習志野隕石の展示_01](https://user-images.githubusercontent.com/20723919/108814742-b3919800-75f6-11eb-8842-8aac4d513e29.jpg)
